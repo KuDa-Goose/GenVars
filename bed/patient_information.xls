@@ -1,0 +1,6 @@
+Sample	姓名	性别	报告编号	患者ID	样本来源	采集时间	报告时间	样本类型	采样方式	实验方法
+Sample009	刘兴燕	未知	unkown	unkown	未知	unkown	2018. 08. 23	cfDNA	血浆	SABEL
+Sample010	青岛	未知	unkown	unkown	未知	unkown	2018. 08. 23	cfDNA	血浆	SABEL
+Sample011	未知	未知	unkown	617027003945	未知	unkown	2018. 08. 23	cfDNA	血浆	SABEL
+Sample012	未知	未知	unkown	617027003946	未知	unkown	2018. 08. 23	cfDNA	血浆	SABEL
+Sample013	未知	未知	unkown	1810144D	未知	unkown	2018. 08. 23	gDNA	FFPE	SABEL

@@ -1,0 +1,35 @@
+---
+
+cutFQ: off
+#AlnALK : on   # off
+
+customScriptLib: /home/test/GenVars/lib/ 
+   
+softwares:
+    curr_python: /home/test/GenVars/anaconda3/bin/python3
+    cutadapt:    /home/test/GenVars/anaconda3/bin/cutadapt
+
+    # sys_python  : /usr/bin/python
+    # sys_cutadapt: /home/user/softwares/cutadapt-1.9.1/bin/cutadapt
+    bwa:         /thinker/storage/world/software/bwa/run/bwa
+    samtools:    /thinker/storage/Software/samtools-1.5/samtools
+    # sys_samtools: /usr/local/bin/samtools
+    bowtie1 :    /thinker/storage/Software/bowtie-1.1.2/bowtie
+    bowtie2 :    /thinker/storage/Software/bowtie2-2.3.2/bowtie2
+    java_1_8:    /usr/bin/java
+    
+geneFus: 
+    "ALK--/thinker/storage/Reference/Build_gene_Index/ALK_bwa/ALK.fa":
+    #    - "KIF5--/thinker/storage/Software/Bowtie-1.1.2/bowtie_library/hg19_KIF5B/KIF5B.fa--/thinker/storage/Software/bowtie2_library/hg19_KIF5B/KIF5B.fa"
+        - "EML4--/thinker/storage/Reference/Build_gene_Index/EML4_ref/Rev_EML4_bt1--/thinker/storage/Reference/Build_gene_Index/EML4_ref/Rev_EML4_bt2"
+        - "STRN--/thinker/storage/Reference/Build_gene_Index/STRN_ref/STRN_bt1--/thinker/storage/Reference/Build_gene_Index/STRN_ref/STRN_bt2"
+        - "TFG--/thinker/storage/Reference/Build_gene_Index/TFG_ref/Rev_TFG_bt1--/thinker/storage/Reference/Build_gene_Index/TFG_ref/Rev_TFG_bt2"
+        - "PTPN3--/thinker/storage/Reference/Build_gene_Index/PTPN3_ref/PTPN3_bt1--/thinker/storage/Reference/Build_gene_Index/PTPN3_ref/PTPN3_bt2"
+        - "KIF5B--/thinker/storage/Reference/Build_gene_Index/KIF5B_ref/KIF5B_bt1--/thinker/storage/Reference/Build_gene_Index/KIF5B_ref/KIF5B_bt2"
+        - "KLC1--/thinker/storage/Reference/Build_gene_Index/KLC1_ref/Rev_KLC1_bt1--/thinker/storage/Reference/Build_gene_Index/KLC1_ref/Rev_KLC1_bt2"
+        
+    #"ROS1--/thinker/net/gene/Projects/2017_analysis_08/20171208_65/Fusion-ROS1/Ref/ROS1-Ref/Gtf_output/ROS1.fa":
+    #    - TCA
+    #    - SLC2
+    #    - "CDK"
+    #    - "SLC34A2--/thinker/net/gene/Projects/2017_analysis_08/20171208_65/Fusion-ROS1/Ref/SLC34A2-Ref/Gtf_output/SLC34A2_ref/Rev_SLC34A2_bt1--/thinker/net/gene/Projects/2017_analysis_08/20171208_65/Fusion-ROS1/Ref/SLC34A2-Ref/Gtf_output/SLC34A2_ref/Rev_SLC34A2_bt2"

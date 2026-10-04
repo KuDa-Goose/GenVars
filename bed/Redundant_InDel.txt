@@ -1,0 +1,5 @@
+Chrom	start	end	InDel_Type	Mut_Name	RefID
+chr7	116771746	116772046	-	MET_外显子14缺失突变	met_e14del
+chr17	39724725	39724765	+	HER2_外显子20插入突变	her2_onc
+chr7	55174765	55174800	-	EGFR_外显子19缺失突变	egfr_e19del
+chr7	55181300	55181339	+	EGFR_外显子20插入突变	egfr_e20ins

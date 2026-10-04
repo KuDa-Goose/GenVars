@@ -1,0 +1,415 @@
+KRAS	Trial of Trametinib and Ponatinib in Patients With KRAS Mutant Advanced Non-Small Cell Lung Cancer	1|2	United States	NSCLC	NCT03704688	19
+EGFR	A Study of LUT014 in Patients With Metastatic Colorectal Cancer With EGFR Inhibitor Induced Acneiform Lesions	1	MC	CRC	NCT03876106	27
+EGFR	T-DM1 and Osimertinib Combination Treatment to Target HER2 Bypass Track Resistance in EGFR Mutation Positive NSCLC	2	Netherlands	NSCLC	NCT03784599	95
+ERBB2	T-DM1 and Osimertinib Combination Treatment to Target HER2 Bypass Track Resistance in EGFR Mutation Positive NSCLC	2	Netherlands	NSCLC	NCT03784599	95
+ERBB2	A Phase I Study of BTRC4017A in Participants With Locally Advanced or Metastatic HER2-Expressing Cancers	1	MC	NSCLC	NCT03448042	27
+ERBB2	A Phase I Study of BTRC4017A in Participants With Locally Advanced or Metastatic HER2-Expressing Cancers	1	MC	CRC	NCT03448042	27
+ERBB2	A Study to Allow Continued Treatment of Patients Who Have Participated in a Spectrum-Sponsored Poziotinib Study	2	United States	NSCLC	NCT03744715	18
+BRAF	Regorafenib, With Cetuximab or Panitumumab, for the Treatment of Unresectable, Locally Advanced, or Metastatic Colorectal Cancer	2	United States	CRC	NCT04117945	18
+EGFR	Regorafenib, With Cetuximab or Panitumumab, for the Treatment of Unresectable, Locally Advanced, or Metastatic Colorectal Cancer	2	United States	CRC	NCT04117945	18
+KRAS	Regorafenib, With Cetuximab or Panitumumab, for the Treatment of Unresectable, Locally Advanced, or Metastatic Colorectal Cancer	2	United States	CRC	NCT04117945	18
+NRAS	Regorafenib, With Cetuximab or Panitumumab, for the Treatment of Unresectable, Locally Advanced, or Metastatic Colorectal Cancer	2	United States	CRC	NCT04117945	18
+EGFR	DS-1205c With Osimertinib for Metastatic or Unresectable Epidermal Growth Factor Receptor (EGFR)-Mutant Non-Small Cell Lung Cancer	1	Taiwan	NSCLC	NCT03255083	125
+EGFR	Clinical Study of Combination Therapy With Ectiecinib, Pemetrexed and Platinum in Patients With Metastatic Non-squamous Non-small Cell Lung Cancer With EGFR Mutations.	3	China	NSCLC	NCT03992885	2
+ERBB2	Anti-HER2 Therapy in Patients of HER2 Positive Metastatic Carcinoma of Digestive System	2	China	CRC	NCT03185988	4
+MET	Assess the Anti-tumor Activity and Safety of Glumetinib in Patient With Advanced c-MET-positive Non-Small Cell Lung Cancer	1|2	China	NSCLC	NCT04270591	5
+EGFR	EGFR-TKIs Combine With Anlotinib as First-line Treatment for Patients With Advanced EGFR Mutation-positive NSCLC	2	China	NSCLC	NCT03720873	4
+EGFR	A Study to Evaluate Safety and Efficacy of HS-10296 as First-Line Treatment in Patients	3	China	NSCLC	NCT03849768	2
+BRAF	Encorafenib, Cetuximab, and Nivolumab in Treating Patients With Microsatellite Stable, BRAFV600E Mutated Unresectable or Metastatic Colorectal Cancer	1|2	United States	CRC	NCT04017650	19
+EGFR	Non Small Cell Lung Cancer Trial of Durvalumab and Tremelimumab in Advanced Epidermal Growth Factor Receptor (EGFR) Mutant Disease.	2	MC	NSCLC	NCT03994393	25
+EGFR	Evaluate the Efficacy and the Safety/Tolerability of Poziotinib in Patients With NSCLC Having EGFR or HER2 Exon 20 Insertion Mutation	2	MC*	NSCLC	NCT04044170	11
+ERBB2	Evaluate the Efficacy and the Safety/Tolerability of Poziotinib in Patients With NSCLC Having EGFR or HER2 Exon 20 Insertion Mutation	2	MC*	NSCLC	NCT04044170	11
+EGFR	Phase 2 Study of Poziotinib in Patients With NSCLC Having EGFR or HER2 Exon 20 Insertion Mutation	2	MC	NSCLC	NCT03318939	25
+ERBB2	Phase 2 Study of Poziotinib in Patients With NSCLC Having EGFR or HER2 Exon 20 Insertion Mutation	2	MC	NSCLC	NCT03318939	25
+EGFR	A Study of ZN-e4 in Subjects With Epidermal Growth Factor Receptor Mutated Non-Small Cell Lung Cancer	1|2	United States	NSCLC	NCT03446417	19
+KRAS	Study of the CDK4/6 Inhibitor Palbociclib (PD-0332991) in Combination With the MEK Inhibitor Binimetinib (MEK162) for Patients With Advanced KRAS Mutant Non-Small Cell Lung Cancer	1|2	United States	NSCLC	NCT03170206	19
+EGFR	Nimotuzumab and Nivolumab in Treating Patients With Advanced Non-small Cell Lung Cancer	1|2	United States	NSCLC	NCT02947386	19
+ERBB2	Her2-positive Lung Cancer Treated With Dedicated Drug	2	France	NSCLC	NCT03845270	53
+EGFR	An Explorative Study of Afatinib in the Treatment of Advanced Cancer Carrying an EGFR, a HER2 or a HER3 Mutation	2	Belgium	NSCLC	NCT03810872	39
+ERBB2	An Explorative Study of Afatinib in the Treatment of Advanced Cancer Carrying an EGFR, a HER2 or a HER3 Mutation	2	Belgium	NSCLC	NCT03810872	39
+EGFR	Open-label PET Study With [11C]Osimertinib in Patients With EGFRm NSCLC and Brain Metastases	1	Sweden	NSCLC	NCT03463525	118
+ERBB2	A Dose Finding Study of ZW49 in Patients With HER2-Positive Cancers	1	MC	CRC	NCT03821233	27
+ERBB2	A Dose Finding Study of ZW49 in Patients With HER2-Positive Cancers	1	MC	NSCLC	NCT03821233	27
+EGFR	A Mass Balance and Pharmacokinetics Study of 14C-Labeled Poziotinib in Cancer Patients Suitable for Treatment With Poziotinib	1	United States	NSCLC	NCT03804515	20
+EGFR	A Mass Balance and Pharmacokinetics Study of 14C-Labeled Poziotinib in Cancer Patients Suitable for Treatment With Poziotinib	1	United States	CRC	NCT03804515	20
+ERBB2	A Mass Balance and Pharmacokinetics Study of 14C-Labeled Poziotinib in Cancer Patients Suitable for Treatment With Poziotinib	1	United States	NSCLC	NCT03804515	20
+ERBB2	A Mass Balance and Pharmacokinetics Study of 14C-Labeled Poziotinib in Cancer Patients Suitable for Treatment With Poziotinib	1	United States	CRC	NCT03804515	20
+ERBB2	Study of DF1001 in Patients With Advanced Solid Tumors	1|2	United States	NSCLC	NCT04143711	19
+ERBB2	Study of DF1001 in Patients With Advanced Solid Tumors	1|2	United States	CRC	NCT04143711	19
+ERBB2	A First-in-human Study of Multiple Doses of BB-1701 in Subjects With Locally Advanced/Metastatic HER2 Positive Solid Tumors	1	MC*	NSCLC	NCT04257110	13
+ERBB2	A First-in-human Study of Multiple Doses of BB-1701 in Subjects With Locally Advanced/Metastatic HER2 Positive Solid Tumors	1	MC*	CRC	NCT04257110	13
+EGFR	Atezolizumab in Combination With Bevacizumab, Carboplatin and Pemetrexed for EGFR-mutant Metastatic NSCLC Patients After Failure of EGFR Tyrosine Kinase Inhibitors	2	Hong Kong	NSCLC	NCT03647956	137
+ERBB2	A Study of BDTX-189, an Orally Available Allosteric ErbB Inhibitor, in Patients With Advanced Solid Tumors.	1|2	United States	NSCLC	NCT04209465	19
+ERBB2	A Study of BDTX-189, an Orally Available Allosteric ErbB Inhibitor, in Patients With Advanced Solid Tumors.	1|2	United States	CRC	NCT04209465	19
+EGFR	A First in Human, Dose Escalation Study of JAB-3068 （SHP2 Inhibitor） in Adult Patients With Advanced Solid Tumors	1	United States	NSCLC	NCT03518554	20
+EGFR	A First in Human, Dose Escalation Study of JAB-3068 （SHP2 Inhibitor） in Adult Patients With Advanced Solid Tumors	1	United States	CRC	NCT03518554	20
+ERBB2	ALRN-6924 and Paclitaxel in Treating Patients With Advanced, Metastatic, or Unresectable Solid Tumors	1	United States	NSCLC	NCT03725436	20
+ERBB2	ALRN-6924 and Paclitaxel in Treating Patients With Advanced, Metastatic, or Unresectable Solid Tumors	1	United States	CRC	NCT03725436	20
+TP53	ALRN-6924 and Paclitaxel in Treating Patients With Advanced, Metastatic, or Unresectable Solid Tumors	1	United States	NSCLC	NCT03725436	20
+TP53	ALRN-6924 and Paclitaxel in Treating Patients With Advanced, Metastatic, or Unresectable Solid Tumors	1	United States	CRC	NCT03725436	20
+ALK	Pembrolizumab in Combination With Platinum-based Doublet Chemotherapy in Patients With EGFR Mutation and ALK Positive NSCLC (Non-Small Cell Lung Cancer) With Progressive Disease Following Prior Tyrosine Kinase Inhibitors (TKIs)	2	United States	NSCLC	NCT03242915	18
+EGFR	Pembrolizumab in Combination With Platinum-based Doublet Chemotherapy in Patients With EGFR Mutation and ALK Positive NSCLC (Non-Small Cell Lung Cancer) With Progressive Disease Following Prior Tyrosine Kinase Inhibitors (TKIs)	2	United States	NSCLC	NCT03242915	18
+ALK	A Study Of Lorlatinib Versus Crizotinib In First Line Treatment Of Patients With ALK-Positive NSCLC	3	MC*	NSCLC	NCT03052608	9
+BRAF	Dose-Escalation and Dose-Expansion of RMC-4630 and Cobimetinib in Relapsed/Refractory Solid Tumors	1|2	United States	NSCLC	NCT03989115	19
+BRAF	Dose-Escalation and Dose-Expansion of RMC-4630 and Cobimetinib in Relapsed/Refractory Solid Tumors	1|2	United States	CRC	NCT03989115	19
+KRAS	Dose-Escalation and Dose-Expansion of RMC-4630 and Cobimetinib in Relapsed/Refractory Solid Tumors	1|2	United States	NSCLC	NCT03989115	19
+KRAS	Dose-Escalation and Dose-Expansion of RMC-4630 and Cobimetinib in Relapsed/Refractory Solid Tumors	1|2	United States	CRC	NCT03989115	19
+ALK	A Study Evaluates the Safety, Pharmacokinetics and Efficacy of WX-0593 in Advanced Solid Tumor Patients	1|2	China	NSCLC	NCT03389815	5
+ALK	A Study Evaluates the Safety, Pharmacokinetics and Efficacy of WX-0593 in Advanced Solid Tumor Patients	1|2	China	CRC	NCT03389815	5
+ROS1	A Study Evaluates the Safety, Pharmacokinetics and Efficacy of WX-0593 in Advanced Solid Tumor Patients	1|2	China	NSCLC	NCT03389815	5
+ROS1	A Study Evaluates the Safety, Pharmacokinetics and Efficacy of WX-0593 in Advanced Solid Tumor Patients	1|2	China	CRC	NCT03389815	5
+MET	APL-101 Study of Subjects With NSCLC With c-Met EXON 14 Skip Mutations and c-Met Dysregulation Advanced Solid Tumors	1|2	United States	NSCLC	NCT03175224	19
+MET	APL-101 Study of Subjects With NSCLC With c-Met EXON 14 Skip Mutations and c-Met Dysregulation Advanced Solid Tumors	1|2	United States	CRC	NCT03175224	19
+KRAS	PDR001 in Patients With Non-small Cell Lung Cancer Harboring KRAS/NRAS Mutation or no Actionable Genetic Abnormalities	2	Republic of	NSCLC	NCT03693326	137
+NRAS	PDR001 in Patients With Non-small Cell Lung Cancer Harboring KRAS/NRAS Mutation or no Actionable Genetic Abnormalities	2	Republic of	NSCLC	NCT03693326	137
+ALK	Ceritinib Plus Docetaxel in ALK-Negative, EGFR WT Advanced NSCLC	1	United States	NSCLC	NCT03611738	20
+EGFR	Ceritinib Plus Docetaxel in ALK-Negative, EGFR WT Advanced NSCLC	1	United States	NSCLC	NCT03611738	20
+BRAF	Palbociclib and Cetuximab in Metastatic Colorectal Cancer	2	United States	CRC	NCT03446157	18
+KRAS	Palbociclib and Cetuximab in Metastatic Colorectal Cancer	2	United States	CRC	NCT03446157	18
+NRAS	Palbociclib and Cetuximab in Metastatic Colorectal Cancer	2	United States	CRC	NCT03446157	18
+EGFR	Icotinib as Neoadjuvant Therapy in EGFR-mutant Stage ⅢA-N2 Non-small Cell Lung Cancer	2	China	NSCLC	NCT03749213	4
+EGFR	A Phase 1/2 Study of TAK-788 in Japanese Patients	1	Japan	NSCLC	NCT03807778	83
+ERBB2	A Phase 1/2 Study of TAK-788 in Japanese Patients	1	Japan	NSCLC	NCT03807778	83
+EGFR	A Study Evaluating the Safety, Pharmacokinetics, and Anti-tumor Activity of ABBV-321 in Subjects With Advanced Solid Tumors Associated With Overexpression of the Epidermal Growth Factor Receptor (EGFR)	1	MC	NSCLC	NCT03234712	27
+EGFR	A Study Evaluating the Safety, Pharmacokinetics, and Anti-tumor Activity of ABBV-321 in Subjects With Advanced Solid Tumors Associated With Overexpression of the Epidermal Growth Factor Receptor (EGFR)	1	MC	CRC	NCT03234712	27
+BRAF	Dabrafenib and Trametinib in Patients With Non-small Cell Lung Cancer Harboring V600E BRAF Mutation	2	Republic of	NSCLC	NCT03543306	137
+BRAF	INCB039110 in Combination With Dabrafenib and Trametinib in Patients With BRAF-mutant Melanoma and Other Solid Tumors.	1	United States	NSCLC	NCT03272464	20
+BRAF	INCB039110 in Combination With Dabrafenib and Trametinib in Patients With BRAF-mutant Melanoma and Other Solid Tumors.	1	United States	CRC	NCT03272464	20
+KRAS	Pembrolizumab and Trametinib in Treating Patients With Stage IV Non-Small Cell Lung Cancer and KRAS Gene Mutations	1	United States	NSCLC	NCT03299088	20
+MET	REGN5093 in Patients With MET-Altered Advanced Non-Small Cell Lung Cancer	1|2	United States	NSCLC	NCT04077099	19
+RET	A Roll Over Study of Alectinib in Patients With Anaplastic Lymphoma Kinase (ALK)-Positive or Rearranged During Transfection (RET)-Positive Cancer	3	MC	NSCLC	NCT03194893	23
+EGFR	Afatinib and Necitumumab in Patients With EGFR Mutation Positive Advanced or Metastatic Non-small Cell Lung Cancer	1	United States	NSCLC	NCT03054038	20
+RET	Phase 1/2 Study of LOXO-292 in Patients With Advanced Solid Tumors, RET Fusion-Positive Solid Tumors, and Medullary Thyroid Cancer	1|2	MC	CRC	NCT03157128	26
+RET	Phase 1/2 Study of LOXO-292 in Patients With Advanced Solid Tumors, RET Fusion-Positive Solid Tumors, and Medullary Thyroid Cancer	1|2	MC	NSCLC	NCT03157128	26
+BRAF	Binimetinib and Encorafenib for the Treatment of Advanced Solid Tumors With Non-V600E BRAF Mutations	2	Canada	NSCLC	NCT03839342	46
+BRAF	Binimetinib and Encorafenib for the Treatment of Advanced Solid Tumors With Non-V600E BRAF Mutations	2	Canada	CRC	NCT03839342	46
+EGFR	D-0316 in Patients With EGFR Positive Non Small Cell Lung Cancer	2	China	NSCLC	NCT03861156	4
+EGFR	D-0316 in Patients With EGFR Positive Non Small Cell Lung Cancer	2	China	CRC	NCT03861156	4
+ERBB2	Study of MT-5111 in HER2-positive Solid Tumors	1	United States	NSCLC	NCT04029922	20
+ERBB2	Study of MT-5111 in HER2-positive Solid Tumors	1	United States	CRC	NCT04029922	20
+EGFR	First Line Treatment in EGFR Mutation Positive Advanced NSCLC Patients With Central Nervous System Metastases	2|3	MC*	NSCLC	NCT03653546	10
+ALK	Ceritinib + Trametinib in Patients With Advanced ALK-Positive Non-Small Cell Lung Cancer (NSCLC)	1|2	United States	NSCLC	NCT03087448	19
+ROS1	Ceritinib + Trametinib in Patients With Advanced ALK-Positive Non-Small Cell Lung Cancer (NSCLC)	1|2	United States	NSCLC	NCT03087448	19
+RET	Phase II Study With Cabozantinib in Patients With RET Positive NSCLC	2	Italy	NSCLC	NCT04131543	74
+ALK	A Study of Lorlatinib in ALK Inhibitor‑Treated ALK‑Positive NSCLC in China	2	China	NSCLC	NCT03909971	4
+ERBB2	A Study of XmAb®23104 in Subjects With Selected Advanced Solid Tumors (DUET-3)	1	United States	NSCLC	NCT03752398	20
+ERBB2	A Study of XmAb®23104 in Subjects With Selected Advanced Solid Tumors (DUET-3)	1	United States	CRC	NCT03752398	20
+ALK	Study of TQ-B3139 in Subjects With Anaplastic Lymphoma Kinase (ALK) Positive Non-Small Cell Lung Cancer (NSCLC) Previously Treated With Crizotinib	2	China	NSCLC	NCT04056572	4
+RET	ALEctinib for the Treatment of Pretreated RET-rearranged Advanced Non-small Cell Lung Cancer	2	MC	NSCLC	NCT03445000	25
+ROS1	A Study of LDK378 in Patients With Non-small Cell Lung Cancer Harboring ROS1 Rearrangement	2	Republic of	NSCLC	NCT03399487	137
+EGFR	Neratinib and Everolimus, Palbociclib, or Trametinib in Treating Participants With Refractory and Advanced or Metastatic Solid Tumors With EGFR Mutation/Amplification, HER2 Mutation/Amplification, or HER3/4 Mutation or KRAS Mutation	1	United States	NSCLC	NCT03065387	20
+EGFR	Neratinib and Everolimus, Palbociclib, or Trametinib in Treating Participants With Refractory and Advanced or Metastatic Solid Tumors With EGFR Mutation/Amplification, HER2 Mutation/Amplification, or HER3/4 Mutation or KRAS Mutation	1	United States	CRC	NCT03065387	20
+ERBB2	Neratinib and Everolimus, Palbociclib, or Trametinib in Treating Participants With Refractory and Advanced or Metastatic Solid Tumors With EGFR Mutation/Amplification, HER2 Mutation/Amplification, or HER3/4 Mutation or KRAS Mutation	1	United States	NSCLC	NCT03065387	20
+ERBB2	Neratinib and Everolimus, Palbociclib, or Trametinib in Treating Participants With Refractory and Advanced or Metastatic Solid Tumors With EGFR Mutation/Amplification, HER2 Mutation/Amplification, or HER3/4 Mutation or KRAS Mutation	1	United States	CRC	NCT03065387	20
+KRAS	Neratinib and Everolimus, Palbociclib, or Trametinib in Treating Participants With Refractory and Advanced or Metastatic Solid Tumors With EGFR Mutation/Amplification, HER2 Mutation/Amplification, or HER3/4 Mutation or KRAS Mutation	1	United States	NSCLC	NCT03065387	20
+KRAS	Neratinib and Everolimus, Palbociclib, or Trametinib in Treating Participants With Refractory and Advanced or Metastatic Solid Tumors With EGFR Mutation/Amplification, HER2 Mutation/Amplification, or HER3/4 Mutation or KRAS Mutation	1	United States	CRC	NCT03065387	20
+EGFR	Osimertinib With Stereotactic Radiosurgery (SRS) in Brain Metastases From EGFR Positive NSCLC	1	United States	NSCLC	NCT03535363	20
+ALK	Study of Capmatinib and Spartalizumab Combination Therapy vs Docetaxel in Non-small Cell Lung Cancer	2	MC	NSCLC	NCT03647488	25
+EGFR	Study of Capmatinib and Spartalizumab Combination Therapy vs Docetaxel in Non-small Cell Lung Cancer	2	MC	NSCLC	NCT03647488	25
+ALK	18F-PD-L1 PET/CT in Nivolumab Treated Patients With NSCLC	N/A	Netherlands	NSCLC	NCT03564197	98
+EGFR	18F-PD-L1 PET/CT in Nivolumab Treated Patients With NSCLC	N/A	Netherlands	NSCLC	NCT03564197	98
+EGFR	Osimertinib With or Without Bevacizumab in Treating Patients With EGFR Positive Non-small Cell Lung Cancer and Brain Metastases	2	United States	NSCLC	NCT02971501	18
+EGFR	A Study of Osimertinib With or Without Chemotherapy as 1st Line Treatment in Patients With Mutated Epidermal Growth Factor Receptor Non-Small Cell Lung Cancer (FLAURA2)	3	MC	NSCLC	NCT04035486	23
+EGFR	A First-in-Human, Phase 1 Study of JAB-3312 in Adult Patients With Advanced Solid Tumors	1	United States	NSCLC	NCT04045496	20
+EGFR	A First-in-Human, Phase 1 Study of JAB-3312 in Adult Patients With Advanced Solid Tumors	1	United States	CRC	NCT04045496	20
+KRAS	A First-in-Human, Phase 1 Study of JAB-3312 in Adult Patients With Advanced Solid Tumors	1	United States	NSCLC	NCT04045496	20
+KRAS	A First-in-Human, Phase 1 Study of JAB-3312 in Adult Patients With Advanced Solid Tumors	1	United States	CRC	NCT04045496	20
+EGFR	TKI Followed by Thoracic Radiotherapy for Stage IV EGFR Mutant NSCLC	N/A	China	NSCLC	NCT03916913	7
+KRAS	A Study to Test Different Doses of BI 1701963 Alone and Combined With Trametinib in Patients With Different Types of Advanced Cancer (Solid Tumours With KRAS Mutation)	1	MC	NSCLC	NCT04111458	27
+KRAS	A Study to Test Different Doses of BI 1701963 Alone and Combined With Trametinib in Patients With Different Types of Advanced Cancer (Solid Tumours With KRAS Mutation)	1	MC	CRC	NCT04111458	27
+KRAS	AMG 510 Activity in Subjects With Advanced Solid Tumors With KRAS p.G12C Mutation (CodeBreak 101)	1	United States	NSCLC	NCT04185883	20
+KRAS	AMG 510 Activity in Subjects With Advanced Solid Tumors With KRAS p.G12C Mutation (CodeBreak 101)	1	United States	CRC	NCT04185883	20
+ERBB2	KN026 Combined With KN046 in Subjects With HER2 Positive Solid Tumor	1	China	NSCLC	NCT04040699	6
+ERBB2	KN026 Combined With KN046 in Subjects With HER2 Positive Solid Tumor	1	China	CRC	NCT04040699	6
+KRAS	Phase 1/2 Study of MRTX849 in Patients With Cancer Having a KRAS G12C Mutation	1|2	United States	NSCLC	NCT03785249	19
+KRAS	Phase 1/2 Study of MRTX849 in Patients With Cancer Having a KRAS G12C Mutation	1|2	United States	CRC	NCT03785249	19
+EGFR	A Phase III, Randomized, Multi-center Study to Determine the Efficacy of the Intercalating Combination Treatment of Chemotherapy and Gefitinib or Chemotherapy as Adjuvant Treatment in NSCLC With Common EGFR Mutations.	3	Republic of	NSCLC	NCT03381066	135
+EGFR	Gefitinib in Combination With Anlotinib or Placebo in Previously Untreated EGFR-mutant NSCLC	3	China	NSCLC	NCT04028778	2
+EGFR	Phase II Randomized Trial of Carboplatin+Pemetrexed+Bevacizumab+/- Atezolizumab in Stage IV NSCLC	2	United States	NSCLC	NCT03786692	18
+EGFR	Afatinib and Cetuximab in Epidermal Growth Factor Receptor (EGFR) Exon 20 Insertion Positive Non-small-cell Lung Cancer	2	Netherlands	NSCLC	NCT03727724	95
+EGFR	Study of Osimertinib With and Without Ramucirumab in Locally Advanced or Metastatic Non-Small Cell Lung Cancer (NSCLC)	2	United States	NSCLC	NCT03909334	18
+ALK	ALK Inhibitor in Metastatic Colorectal Cancer With ALK Mutation.	N/A	China	CRC	NCT03792568	7
+EGFR	The Safety,Efficacy of Anti-EGFR Humanized Monoclonal Antibody Combined With Chemotherapy in Advanced Solid Tumors.	1|2	China	NSCLC	NCT03577704	5
+EGFR	The Safety,Efficacy of Anti-EGFR Humanized Monoclonal Antibody Combined With Chemotherapy in Advanced Solid Tumors.	1|2	China	CRC	NCT03577704	5
+EGFR	A Study Osimertinib in Patients With Stage 4 Non-small Cell Lung Cancer With Uncommon EGFR Mutations	2	United States	NSCLC	NCT03434418	18
+KRAS	A Study of LY3499446 in Participants With Advanced Solid Tumors With KRAS G12C Mutation	1|2	MC	CRC	NCT04165031	26
+KRAS	A Study of LY3499446 in Participants With Advanced Solid Tumors With KRAS G12C Mutation	1|2	MC	NSCLC	NCT04165031	26
+EGFR	Study of Osimertinib + SRS vs Osimertinib Alone for Brain Metastases in EGFR Positive Patients With NSCLC	2	Canada	NSCLC	NCT03769103	46
+EGFR	The Efficacy and Drug Resistance Molecular Biology of Apatinib Combined With EGFR-TK1 Treated for Advanced Slow-progressed Non-Small Cell Lung Cancer (NSCLC)	2	China	NSCLC	NCT03811054	4
+EGFR	FT500 as Monotherapy and in Combination With Immune Checkpoint Inhibitors in Subjects With Advanced Solid Tumors	1	United States	NSCLC	NCT03841110	20
+EGFR	FT500 as Monotherapy and in Combination With Immune Checkpoint Inhibitors in Subjects With Advanced Solid Tumors	1	United States	CRC	NCT03841110	20
+ERBB2	FT500 as Monotherapy and in Combination With Immune Checkpoint Inhibitors in Subjects With Advanced Solid Tumors	1	United States	CRC	NCT03841110	20
+ERBB2	FT500 as Monotherapy and in Combination With Immune Checkpoint Inhibitors in Subjects With Advanced Solid Tumors	1	United States	NSCLC	NCT03841110	20
+EGFR	Osimertinib In EGFR Mutant Lung Cancer	2	United States	NSCLC	NCT03586453	18
+EGFR	EGF816 and Trametinib in Patients With Non-small Cell Lung Cancer Harboring Activating EGFR Mutations	1	MC	NSCLC	NCT03516214	27
+EGFR	Osimertinib, Surgery, and Radiation Therapy in Treating Patients With Stage IIIB or IV Non-small Cell Lung Cancer With EGFR Mutations	2	United States	NSCLC	NCT03410043	18
+EGFR	Study of Tarloxotinib in Pts With NSCLC (EGFR Exon 20 Insertion, HER2-activating Mutations) & Other Solid Tumors With NRG1/ERBB Gene Fusions	2	MC	NSCLC	NCT03805841	25
+EGFR	Study of Tarloxotinib in Pts With NSCLC (EGFR Exon 20 Insertion, HER2-activating Mutations) & Other Solid Tumors With NRG1/ERBB Gene Fusions	2	MC	CRC	NCT03805841	25
+ERBB2	Study of Tarloxotinib in Pts With NSCLC (EGFR Exon 20 Insertion, HER2-activating Mutations) & Other Solid Tumors With NRG1/ERBB Gene Fusions	2	MC	NSCLC	NCT03805841	25
+ERBB2	Study of Tarloxotinib in Pts With NSCLC (EGFR Exon 20 Insertion, HER2-activating Mutations) & Other Solid Tumors With NRG1/ERBB Gene Fusions	2	MC	CRC	NCT03805841	25
+ALK	A Study Evaluating Platinum-Pemetrexed-Atezolizumab (+/-Bevacizumab) for Patients With Stage IIIB/IV Non-squamous Non-small Cell Lung Cancer With EGFR Mutations, ALK Rearrangement or ROS1 Fusion Progressing After Targeted Therapies	2	France	NSCLC	NCT04042558	53
+EGFR	A Study Evaluating Platinum-Pemetrexed-Atezolizumab (+/-Bevacizumab) for Patients With Stage IIIB/IV Non-squamous Non-small Cell Lung Cancer With EGFR Mutations, ALK Rearrangement or ROS1 Fusion Progressing After Targeted Therapies	2	France	NSCLC	NCT04042558	53
+ROS1	A Study Evaluating Platinum-Pemetrexed-Atezolizumab (+/-Bevacizumab) for Patients With Stage IIIB/IV Non-squamous Non-small Cell Lung Cancer With EGFR Mutations, ALK Rearrangement or ROS1 Fusion Progressing After Targeted Therapies	2	France	NSCLC	NCT04042558	53
+EGFR	First-line Treatment With Osimertinib in EGFR-mutated Non-small Cell Lung Cancer	2	MC	NSCLC	NCT03804580	25
+EGFR	E GFR TKI and EGF-P TI C Ombination in EGFR mutA nt NSCL C	1|2	Spain	NSCLC	NCT03623750	110
+ERBB2	Evaluate Safety, Tolerability and Pharmacokinetics of HLX22 in Patients With Advanced Solid Tumors Overexpressing HER2	1	China	NSCLC	NCT03916094	6
+ERBB2	Evaluate Safety, Tolerability and Pharmacokinetics of HLX22 in Patients With Advanced Solid Tumors Overexpressing HER2	1	China	CRC	NCT03916094	6
+EGFR	Study of A166 in Patients With Relapsed/Refractory Cancers Expressing HER2 Antigen or Having Amplified HER2 Gene	1|2	United States	NSCLC	NCT03602079	19
+EGFR	Study of A166 in Patients With Relapsed/Refractory Cancers Expressing HER2 Antigen or Having Amplified HER2 Gene	1|2	United States	CRC	NCT03602079	19
+ERBB2	Study of A166 in Patients With Relapsed/Refractory Cancers Expressing HER2 Antigen or Having Amplified HER2 Gene	1|2	United States	CRC	NCT03602079	19
+ERBB2	Study of A166 in Patients With Relapsed/Refractory Cancers Expressing HER2 Antigen or Having Amplified HER2 Gene	1|2	United States	NSCLC	NCT03602079	19
+MET	CABozantinib in Non-Small Cell Lung Cancer (NSCLC) Patients With MET Deregulation	2	Italy	NSCLC	NCT03911193	74
+TP53	A Pilot Trial of Atorvastatin in Tumor Protein 53 (p53) -Mutant and p53 Wild-Type Malignancies	1	United States	NSCLC	NCT03560882	20
+TP53	A Pilot Trial of Atorvastatin in Tumor Protein 53 (p53) -Mutant and p53 Wild-Type Malignancies	1	United States	CRC	NCT03560882	20
+EGFR	A Phase IIb Study of BPI-7711 Capsule in Non-small Cell Lung Cancer Patients With T790M Mutation Positive	2	China	NSCLC	NCT03812809	4
+EGFR	A Phase 1/2a Trial of CLN-081 in Patients With Non-Small Cell Lung Cancer	1|2	MC	NSCLC	NCT04036682	26
+EGFR	Sintilimab ± IBI305 Plus Chemotherapy (Pemetrexed + Cisplatin) for EGFRm + Locally Advanced or Metastasis Non-Squamous NSCLC Patients After EGFR-TKI Treatment Failure	3	China	NSCLC	NCT03802240	2
+EGFR	A Study to Evaluate Immunotherapy Combinations in Participants With Lung Cancer	1	MC	NSCLC	NCT03846310	27
+ERBB2	A Study of SGN-CD228A in Advanced Solid Tumors	1	United States	CRC	NCT04042480	20
+ERBB2	A Study of SGN-CD228A in Advanced Solid Tumors	1	United States	NSCLC	NCT04042480	20
+ERBB2	Pyrotinib in Combination With Trastuzumab in Treatment-refractory, HER2-positive Metastatic Colorectal Cancar.	N/A	China	CRC	NCT03843749	7
+BRAF	Second-line FOLFIRI + Panitumumab in Subjects With Wild Type RAS Metastatic Colorectal	2	Spain	CRC	NCT03751176	109
+EGFR	PF-06804103 Dose Escalation in HER2 Positive Solid Tumors	1	MC	NSCLC	NCT03284723	27
+EGFR	PF-06804103 Dose Escalation in HER2 Positive Solid Tumors	1	MC	CRC	NCT03284723	27
+ERBB2	PF-06804103 Dose Escalation in HER2 Positive Solid Tumors	1	MC	NSCLC	NCT03284723	27
+ERBB2	PF-06804103 Dose Escalation in HER2 Positive Solid Tumors	1	MC	CRC	NCT03284723	27
+KRAS	Phase 2 Study of TVB-2640 in KRAS Non-Small Cell Lung Carcinomas	2	United States	NSCLC	NCT03808558	18
+ROS1	Safety and Efficacy Study of TQ-B3101 in Patients With ROS1-positive Non-Small Cell Lung Cancer (NSCLC)	2	China	NSCLC	NCT03972189	4
+EGFR	Icotinib as Consolidation Therapy After Chemoradiotherapy in EGFR-Mutant Stage IIIA-IIIB Non-small Cell Lung Cancer	2	China	NSCLC	NCT03396185	4
+EGFR	Apatinib Combined With EGFR-TKI for Advanced Slow-progressed EGFR-TKI Resistant NSCLC	3	China	NSCLC	NCT03428022	2
+EGFR	To Evaluate the Efficacy and Safety of Gefitinib in Adjuvant Chemotherapy for Lung Adenocarcinoma	3	China	NSCLC	NCT03656393	2
+EGFR	DS8201a and Pembrolizumab in Participants With Locally Advanced/Metastatic Breast or Non-Small Cell Lung Cancer	1	MC	NSCLC	NCT04042701	27
+ERBB2	DS8201a and Pembrolizumab in Participants With Locally Advanced/Metastatic Breast or Non-Small Cell Lung Cancer	1	MC	NSCLC	NCT04042701	27
+ERBB2	PD-1 Combined With Pyrotinib for Chemotherapy Failure HER2 Insertion Mutation Advanced NSCLC	2	China	NSCLC	NCT04144569	4
+EGFR	MEchanisms of Resistance in EGFR Mutated Nonpretreated Advanced Lung Cancer Receiving OSimErtib	2	France	NSCLC	NCT03865511	53
+ALK	Local Consolidative Therapy and Brigatinib in Treating Patients With Stage IV or Recurrent Non-small Cell Lung Cancer	N/A	United States	NSCLC	NCT03707938	21
+BRAF	CMAB009 Combined With FOLFIRI First-line Treatment in Patients With RAS/BRAF Wild-type, Metastatic Colorectal Cancer	3	China	CRC	NCT03206151	2
+EGFR	CMAB009 Combined With FOLFIRI First-line Treatment in Patients With RAS/BRAF Wild-type, Metastatic Colorectal Cancer	3	China	CRC	NCT03206151	2
+EGFR	A Study of Sintilimab or Placebo in Combination With Chemotherapy as Second-line Treatment for Patients With Stage IV Nonsquamous Non-small Cell Lung Cancer With Wild-type EGFR After Failure With Platinum-Containing Chemotherapy.	2	China	NSCLC	NCT03863483	4
+ALK	An Efficacy Study Comparing Brigatinib Versus Alectinib in Advanced Anaplastic Lymphoma Kinase-Positive (ALK+) Non-Small-Cell Lung Cancer (NSCLC) Participants Who Have Progressed on Crizotinib	3	MC*	NSCLC	NCT03596866	9
+EGFR	D-0316 Versus Icotinib in Patients With Locally Advanced or Metastatic EGFR Sensitising Mutation Positive NSCLC	2|3	China	NSCLC	NCT04206072	3
+EGFR	Study of Nivolumab Verses Nivolumab and Ipilimumab Combination in EGFR Mutant Non-small Cell Lung Cancer	2	Singapore	NSCLC	NCT03091491	102
+MET	A Phase I Study of SCC244	1	China	NSCLC	NCT03457532	6
+MET	A Phase I Study of SCC244	1	China	CRC	NCT03457532	6
+EGFR	Osimertinib as First-line Therapy for Patients With Late-stage Lung Cancer	2	China	NSCLC	NCT03460275	4
+ALK	Brigatinib and Binimetinib in Treating Patients With Stage IIIB-IV ALK or ROS1-Rearranged Non-small Cell Lung Cancer	1	United States	NSCLC	NCT04005144	20
+ROS1	Brigatinib and Binimetinib in Treating Patients With Stage IIIB-IV ALK or ROS1-Rearranged Non-small Cell Lung Cancer	1	United States	NSCLC	NCT04005144	20
+EGFR	EGFR Mutation Positive NSCLC Patients With Gefitinib and Thalidomide	2	China	NSCLC	NCT03341494	4
+EGFR	A First-in-Human Study of JAB-3068 (SHP2 Inhibitor) in Adult Patients With Advanced Solid Tumors in China	1|2	China	NSCLC	NCT03565003	5
+EGFR	A First-in-Human Study of JAB-3068 (SHP2 Inhibitor) in Adult Patients With Advanced Solid Tumors in China	1|2	China	CRC	NCT03565003	5
+EGFR	Pemetrexed Plus Tarceva as Salvage Treatment in EGFR Overexpressed Metastatic Colorectal Cancer Patients Who Were Failed After Standard Chemotherapy	2	Republic of	CRC	NCT03086538	137
+BRAF	Vemurafenib in Treating Patients With Relapsed or Refractory Advanced Solid Tumors, Non-Hodgkin Lymphoma, or Histiocytic Disorders With BRAF V600 Mutations (A Pediatric MATCH Treatment Trial)	2	MC	NSCLC	NCT03220035	25
+BRAF	Vemurafenib in Treating Patients With Relapsed or Refractory Advanced Solid Tumors, Non-Hodgkin Lymphoma, or Histiocytic Disorders With BRAF V600 Mutations (A Pediatric MATCH Treatment Trial)	2	MC	CRC	NCT03220035	25
+EGFR	A Global Study to Assess the Effects of Osimertinib Following Chemoradiation in Patients With Stage III Unresectable Non-small Cell Lung Cancer (LAURA)	3	MC*	NSCLC	NCT03521154	9
+EGFR	Targeted T-cell Therapy in Solid Tumors	N/A	China	NSCLC	NCT04076137	7
+EGFR	Targeted T-cell Therapy in Solid Tumors	N/A	China	CRC	NCT04076137	7
+ERBB2	Targeted T-cell Therapy in Solid Tumors	N/A	China	NSCLC	NCT04076137	7
+ERBB2	Targeted T-cell Therapy in Solid Tumors	N/A	China	CRC	NCT04076137	7
+ERBB2	Tucatinib Plus Trastuzumab in Patients With HER2+ Colorectal Cancer	2	United States	CRC	NCT03043313	18
+BRAF	A PhaseI Study of HL-085 Plus Vemurafenib in Solid Tumor With BRAF V600 Mutation	1	China	NSCLC	NCT03781219	6
+BRAF	A PhaseI Study of HL-085 Plus Vemurafenib in Solid Tumor With BRAF V600 Mutation	1	China	CRC	NCT03781219	6
+KRAS	Cetuximab as Salvage Therapy in Patients With Neo Wild-type RAS/RAF Metastatic Colorectal Cancer With Liver Metastases.	2	France	CRC	NCT04189055	53
+NRAS	Cetuximab as Salvage Therapy in Patients With Neo Wild-type RAS/RAF Metastatic Colorectal Cancer With Liver Metastases.	2	France	CRC	NCT04189055	53
+EGFR	Safety, Tolerability, Pharmacokinetics and Anti-tumour Activity of ASK120067 in Locally Advanced and Metastatic Non Small Cell Lung Cancer	1|2	China	NSCLC	NCT03502850	5
+MET	A Study of PLB1001 in Non-small Cell Lung Cancer With c-Met Dysregulation	2	China	NSCLC	NCT04258033	4
+EGFR	Osimertinib and Gefitinib in EGFR Inhibitor naïve Advanced EGFR Mutant Lung Cancer	1|2	United States	NSCLC	NCT03122717	19
+EGFR	A Randomised Phase II Trial of Osimertinib With or Without SRS for EGFR Mutated NSCLC With Brain Metastases	2	MC	NSCLC	NCT03497767	25
+EGFR	A Study to Determine the Efficiency For Brain Metastasis NSCLC Patients Treated With Icotinib Alone or Combined With Radiation Therapy	3	China	NSCLC	NCT04058704	2
+ERBB2	A Phase Ia/Ib Study of IBI315 in Patients With HER2-expressing Advanced Solid Tumor	1	China	NSCLC	NCT04162327	6
+ERBB2	A Phase Ia/Ib Study of IBI315 in Patients With HER2-expressing Advanced Solid Tumor	1	China	CRC	NCT04162327	6
+EGFR	ASK120067 Versus Gefitinib as First-line Treatment for EGFRm Locally Advanced or Metastatic NSCLC	3	China	NSCLC	NCT04143607	2
+ALK	A Study Comparing Adjuvant Alectinib Versus Adjuvant Platinum-Based Chemotherapy in Patients With ALK Positive Non-Small Cell Lung Cancer	3	MC*	NSCLC	NCT03456076	9
+EGFR	A Study of Tepotinib Plus Osimertinib in Epidermal Growth Factor Receptor (EGFR ) Tyrosine Kinase Inhibitor (TKI) Relapsed Mesenchymal-epithelial Transition Factor (MET) Amplified Non-small Cell Lung Cancer (NSCLC)	2	MC	NSCLC	NCT03940703	25
+MET	A Study of Tepotinib Plus Osimertinib in Epidermal Growth Factor Receptor (EGFR ) Tyrosine Kinase Inhibitor (TKI) Relapsed Mesenchymal-epithelial Transition Factor (MET) Amplified Non-small Cell Lung Cancer (NSCLC)	2	MC	NSCLC	NCT03940703	25
+ALK	The Absorption, Metabolism and Excretion of [14C]Ensartinib in Human	1	China	NSCLC	NCT03804541	6
+ALK	Study of TQ-B3139 Versus Crizotinib in the First Line Treatment of Subjects With Anaplastic Lymphoma Kinase (ALK) Positive Non-Small Cell Lung Cancer (NSCLC)	3	China	NSCLC	NCT04009317	2
+ERBB2	This Study in Patients With Different Types of Cancer (Solid Tumours) Aims to Find a Safe Dose of Xentuzumab in Combination With Abemaciclib With or Without Hormonal Therapies. The Study Also Tests How Effective These Medicines Are in Patients With Lung and Breast Cancer.	1	MC	NSCLC	NCT03099174	27
+ERBB2	This Study in Patients With Different Types of Cancer (Solid Tumours) Aims to Find a Safe Dose of Xentuzumab in Combination With Abemaciclib With or Without Hormonal Therapies. The Study Also Tests How Effective These Medicines Are in Patients With Lung and Breast Cancer.	1	MC	CRC	NCT03099174	27
+KRAS	Phase 1/2 Trial of Selinexor (KPT-330) With Docetaxel for Non-small Cell Lung Cancer (NSCLC)	1|2	United States	NSCLC	NCT03095612	19
+EGFR	A Study of Bispecific Antibody MCLA-158 in Patients With Advanced Solid Tumors	1	MC	CRC	NCT03526835	27
+EGFR	A Study of Bispecific Antibody MCLA-158 in Patients With Advanced Solid Tumors	1	MC	NSCLC	NCT03526835	27
+EGFR	Folfiri/aflIbercept in Metastatic coloreCTal Cancer patIents With RAS Validated Wild typE Status	N/A	Italy	CRC	NCT04252456	77
+ERBB2	KN026 in Patients With HER2 Expressing Breast Cancer and Gastric Cancer	1	United States	NSCLC	NCT03847168	20
+ERBB2	KN026 in Patients With HER2 Expressing Breast Cancer and Gastric Cancer	1	United States	CRC	NCT03847168	20
+EGFR	Anlotinib Plus Sintilimab for NSCLC Patients With First-generation EGFR-TKIs Drug Resistance Along With T790M Negative	2	China	NSCLC	NCT03765775	4
+EGFR	Oleclumab (MEDI9447) EGFRm NSCLC Novel Combination Study	1|2	MC	NSCLC	NCT03381274	26
+EGFR	A Study of APG-1252 Plus Osimertinib(AZD9291) in EGFR TKI Resistant NSCLC Patients	1	China	NSCLC	NCT04001777	6
+EGFR	Toripalimab Plus Pemetrexed+Platinus in Advanced Non-small-cell Lungcancer Patients Previsouly Treated EGFR-TKI	3	China	NSCLC	NCT03924050	2
+ALK	A Phase I Study of Alkotinib in Patients With Advanced Non Small Cell Lung Cancer	1	China	NSCLC	NCT03607188	6
+ROS1	A Phase I Study of Alkotinib in Patients With Advanced Non Small Cell Lung Cancer	1	China	NSCLC	NCT03607188	6
+EGFR	Apatinib Combine With Platinum‐Based Doublet Chemotherapy for First-line Treatment of Advanced NSCLC	1|2	China	NSCLC	NCT03201146	5
+EGFR	Study of Dacomitinib and Osimertinib for Patients With Advanced EGFR Mutant Lung Cancer	1	United States	NSCLC	NCT03810807	20
+BRAF	Deciphering Antitumour Response and Resistance With INtratumour Heterogeneity	2	United Kingdom	NSCLC	NCT02314481	137
+ERBB2	Deciphering Antitumour Response and Resistance With INtratumour Heterogeneity	2	United Kingdom	NSCLC	NCT02314481	137
+EGFR	A Study of EGF816 and Gefitinib in TKI-naïve EGFR-mutant Non-Small Cell Lung Cancer	2	United States	NSCLC	NCT03292133	18
+KRAS	TAK-659 and Paclitaxel in Treating Patients With Advanced Solid Tumors	1	United States	NSCLC	NCT03756818	20
+KRAS	TAK-659 and Paclitaxel in Treating Patients With Advanced Solid Tumors	1	United States	CRC	NCT03756818	20
+MET	M8891 First in Human in Solid Tumors	1	United States	NSCLC	NCT03138538	20
+MET	M8891 First in Human in Solid Tumors	1	United States	CRC	NCT03138538	20
+ERBB2	PRS-343 in HER2-Positive Solid Tumors	1	United States	NSCLC	NCT03330561	20
+ERBB2	PRS-343 in HER2-Positive Solid Tumors	1	United States	CRC	NCT03330561	20
+ERBB2	A Study of RC48-ADC in Subjects With Advanced Non-small Cell Lung Cancer	1|2	China	NSCLC	NCT04311034	5
+ERBB2	Safety and Preliminary Efficacy of OBT076 in Recurrent/Metastatic CD205+ Solid Tumors and HER2-neg Breast Cancer	1	United States	NSCLC	NCT04064359	20
+ERBB2	Safety and Preliminary Efficacy of OBT076 in Recurrent/Metastatic CD205+ Solid Tumors and HER2-neg Breast Cancer	1	United States	CRC	NCT04064359	20
+RET	A Study of Selpercatinib (LY3527723) in Participants With Advanced or Metastatic RET Fusion-Positive Non-Small Cell Lung Cancer	3	MC*	NSCLC	NCT04194944	9
+ALK	A Dose Escalation and Cohort Expansion Study of Subcutaneously-Administered Cytokine (ALKS 4230) as a Single Agent and in Combination With Anti-PD-1 Antibody (Pembrolizumab) in Subjects With Select Advanced or Metastatic Solid Tumors (ARTISTRY-2)	1|2	United States	NSCLC	NCT03861793	19
+ALK	A Dose Escalation and Cohort Expansion Study of Subcutaneously-Administered Cytokine (ALKS 4230) as a Single Agent and in Combination With Anti-PD-1 Antibody (Pembrolizumab) in Subjects With Select Advanced or Metastatic Solid Tumors (ARTISTRY-2)	1|2	United States	CRC	NCT03861793	19
+ERBB2	Phase I Clinical Study of MBS301 in Treatment of HER2 Positive Recurrent or Metastatic Malignant Solid Tumor	1	China	NSCLC	NCT03842085	6
+ERBB2	Phase I Clinical Study of MBS301 in Treatment of HER2 Positive Recurrent or Metastatic Malignant Solid Tumor	1	China	CRC	NCT03842085	6
+BRAF	Study of Safety, Pharmacokinetics, and Antitumor Activity of BGB-3245 in Participants With Advanced or Refractory Tumors	1	Australia	NSCLC	NCT04249843	34
+BRAF	Study of Safety, Pharmacokinetics, and Antitumor Activity of BGB-3245 in Participants With Advanced or Refractory Tumors	1	Australia	CRC	NCT04249843	34
+KRAS	Study of Safety, Pharmacokinetics, and Antitumor Activity of BGB-3245 in Participants With Advanced or Refractory Tumors	1	Australia	NSCLC	NCT04249843	34
+KRAS	Study of Safety, Pharmacokinetics, and Antitumor Activity of BGB-3245 in Participants With Advanced or Refractory Tumors	1	Australia	CRC	NCT04249843	34
+NRAS	Study of Safety, Pharmacokinetics, and Antitumor Activity of BGB-3245 in Participants With Advanced or Refractory Tumors	1	Australia	NSCLC	NCT04249843	34
+NRAS	Study of Safety, Pharmacokinetics, and Antitumor Activity of BGB-3245 in Participants With Advanced or Refractory Tumors	1	Australia	CRC	NCT04249843	34
+ERBB2	PRS-343 in Combination With Atezolizumab in HER2-Positive Solid Tumors	1	United States	NSCLC	NCT03650348	20
+ERBB2	PRS-343 in Combination With Atezolizumab in HER2-Positive Solid Tumors	1	United States	CRC	NCT03650348	20
+EGFR	Icotinib as Neoadjuvant and Adjuvant Therapy in EGFR-mutant Stage IIIB or Oligometastasis Non-small Cell Lung Cancer	2	China	NSCLC	NCT03349203	4
+EGFR	Clinical Trial of YH25448(Lazertinib) as the First-line Treatment in Patients With EGFR Mutation Positive Locally Advanced or Metastatic NSCLC (LASER301)	3	Republic of	NSCLC	NCT04248829	135
+EGFR	DS-1205c With Gefitinib for Metastatic or Unresectable Epidermal Growth Factor Receptor (EGFR)-Mutant Non-Small Cell Lung Cancer	1	Japan	NSCLC	NCT03599518	83
+ERBB2	Study of NMS-03305293 in Pts With Selected Advanced/Metastatic Solid Tumors	1	MC	NSCLC	NCT04182516	27
+ERBB2	Study of NMS-03305293 in Pts With Selected Advanced/Metastatic Solid Tumors	1	MC	CRC	NCT04182516	27
+KRAS	A Study of mRNA-5671/V941 as Monotherapy and in Combination With Pembrolizumab (V941-001)	1	United States	CRC	NCT03948763	20
+KRAS	A Study of mRNA-5671/V941 as Monotherapy and in Combination With Pembrolizumab (V941-001)	1	United States	NSCLC	NCT03948763	20
+MET	Capmatinib in Patients With Non-small Cell Lung Cancer Harboring cMET exon14 Skipping Mutation	2	Republic of	NSCLC	NCT03693339	137
+EGFR	Satisfaction and Quality of Life Comparison Between Patients Using Cicaplast Baume B5 Versus Dexeryl for the Management of Cutaneous Toxicities Induced by Epidermal Growth Factor Receptor Inhibitors (iEGFR)	N/A	France	CRC	NCT03421912	56
+EGFR	Satisfaction and Quality of Life Comparison Between Patients Using Cicaplast Baume B5 Versus Dexeryl for the Management of Cutaneous Toxicities Induced by Epidermal Growth Factor Receptor Inhibitors (iEGFR)	N/A	France	NSCLC	NCT03421912	56
+KRAS	First-in-Human Study of JNJ-74699157 in Participants With Tumors Harboring the KRAS G12C Mutation	1	MC	CRC	NCT04006301	27
+KRAS	First-in-Human Study of JNJ-74699157 in Participants With Tumors Harboring the KRAS G12C Mutation	1	MC	NSCLC	NCT04006301	27
+BRAF	First Line mFOLFOXIRI + PANITUMUMAB vs mFOLFOX + PANITUMUMAB IN RAS AND BRAF WT METASTATIC COLORECTAL CANCER PATIENTS	3	Italy	CRC	NCT03231722	72
+KRAS	Phase Ib Study of TNO155 in Combination With Spartalizumab or Ribociclib in Selected Malignancies	1	MC	NSCLC	NCT04000529	27
+EGFR	A Study of BPI-7711 Capsule in Non-small Cell Lung Cancer Patients	3	China	NSCLC	NCT03866499	2
+PIK3CA	GDC-0084 With Radiation Therapy for People With PIK3CA-Mutated Solid Tumor Brain Metastases or Leptomeningeal Metastases	1	United States	NSCLC	NCT04192981	20
+PIK3CA	GDC-0084 With Radiation Therapy for People With PIK3CA-Mutated Solid Tumor Brain Metastases or Leptomeningeal Metastases	1	United States	CRC	NCT04192981	20
+MET	Feasibility Study of Microbial Ecosystem Therapeutics (MET-4) to Evaluate Effects of Fecal Microbiome in Patients on ImmunOtherapy	N/A	Canada	NSCLC	NCT03686202	49
+MET	Feasibility Study of Microbial Ecosystem Therapeutics (MET-4) to Evaluate Effects of Fecal Microbiome in Patients on ImmunOtherapy	N/A	Canada	CRC	NCT03686202	49
+EGFR	ctDNA Guided Treatment of Early Resistance to Targeted Treatment	2	Netherlands	NSCLC	NCT04148066	95
+EGFR	Study of Pemetrexed + Platinum Chemotherapy With or Without Pembrolizumab (MK-3475) in Adults With Tyrosine Kinase Inhibitor- (TKI)-Resistant Epidermal Growth Factor Receptor- (EGFR)-Mutated Metastatic Non-squamous Non-small Cell Lung Cancer (NSCLC) (MK-3475-789/KEYNOTE-789)	3	MC*	NSCLC	NCT03515837	9
+EGFR	Glutaminase Inhibitor CB-839 Hydrochloride and Osimertinib in Treating Patients With EGFR-Mutated Stage IV Non-small Cell Lung Cancer	1|2	United States	NSCLC	NCT03831932	19
+EGFR	Osimertinib Treatment on EGFR T790M Plasma Positive NSCLC Patients (APPLE)	2	MC	NSCLC	NCT02856893	25
+MET	Study of Telisotuzumab Vedotin (ABBV-399) in Subjects With Previously Treated c-Met+ Non-Small Cell Lung Cancer	2	MC*	NSCLC	NCT03539536	11
+BRAF	Study of Neratinib +Trastuzumab or Neratinib + Cetuximab in Patients With KRAS/NRAS/BRAF/PIK3CA Wild-Type Metastatic Colorectal Cancer by HER2 Status	2	United States	CRC	NCT03457896	18
+ERBB2	Study of Neratinib +Trastuzumab or Neratinib + Cetuximab in Patients With KRAS/NRAS/BRAF/PIK3CA Wild-Type Metastatic Colorectal Cancer by HER2 Status	2	United States	CRC	NCT03457896	18
+KRAS	Study of Neratinib +Trastuzumab or Neratinib + Cetuximab in Patients With KRAS/NRAS/BRAF/PIK3CA Wild-Type Metastatic Colorectal Cancer by HER2 Status	2	United States	CRC	NCT03457896	18
+NRAS	Study of Neratinib +Trastuzumab or Neratinib + Cetuximab in Patients With KRAS/NRAS/BRAF/PIK3CA Wild-Type Metastatic Colorectal Cancer by HER2 Status	2	United States	CRC	NCT03457896	18
+PIK3CA	Study of Neratinib +Trastuzumab or Neratinib + Cetuximab in Patients With KRAS/NRAS/BRAF/PIK3CA Wild-Type Metastatic Colorectal Cancer by HER2 Status	2	United States	CRC	NCT03457896	18
+ERBB2	A First-in-human Study Using BDC-1001 in Advanced and HER2-Expressing Solid Tumors	1	United States	NSCLC	NCT04278144	20
+ERBB2	A First-in-human Study Using BDC-1001 in Advanced and HER2-Expressing Solid Tumors	1	United States	CRC	NCT04278144	20
+EGFR	Detection of the Emergence of RAS (Rat Sarcoma Viral Oncogene Homolog) Mutations in Circulating DNA (Deoxyribonucleic Acid) in Patients With mCRC (Metastatic Colorectal Cancer) During Treatment With Anti-EGFR (Epidermal Growth Factor Receptor) Therapy	N/A	France	CRC	NCT03908788	56
+ALK	A Study of Repotrectinib in Pediatric and Young Adult Subjects Harboring ALK, ROS1, OR NTRK1-3 Alterations	1|2	MC	NSCLC	NCT04094610	26
+ALK	A Study of Repotrectinib in Pediatric and Young Adult Subjects Harboring ALK, ROS1, OR NTRK1-3 Alterations	1|2	MC	CRC	NCT04094610	26
+ROS1	A Study of Repotrectinib in Pediatric and Young Adult Subjects Harboring ALK, ROS1, OR NTRK1-3 Alterations	1|2	MC	NSCLC	NCT04094610	26
+ROS1	A Study of Repotrectinib in Pediatric and Young Adult Subjects Harboring ALK, ROS1, OR NTRK1-3 Alterations	1|2	MC	CRC	NCT04094610	26
+RET	Safety, Efficacy, and Tolerability of BOS172738 in Patients With Advanced Rearranged During Transfection (RET) Gene-Altered Tumors	1	MC	NSCLC	NCT03780517	27
+RET	Safety, Efficacy, and Tolerability of BOS172738 in Patients With Advanced Rearranged During Transfection (RET) Gene-Altered Tumors	1	MC	CRC	NCT03780517	27
+EGFR	A Phase 2 Study of Osimertinib in Combination With Selumetinib in EGFR Inhibitor naïve Advanced EGFR Mutant Lung Cancer	2	United States	NSCLC	NCT03392246	18
+MET	A Study of SHR-A1403 in Patients With Advanced Solid Tumor	1	China	NSCLC	NCT03856541	6
+MET	A Study of SHR-A1403 in Patients With Advanced Solid Tumor	1	China	CRC	NCT03856541	6
+MET	Extension Study for Patients Who Had Not Met Criteria for Discontinuation in Previous Sponsored Belinostat Trials	1	United States	NSCLC	NCT04184869	20
+MET	Extension Study for Patients Who Had Not Met Criteria for Discontinuation in Previous Sponsored Belinostat Trials	1	United States	CRC	NCT04184869	20
+MET	Safety, Tolerability, Pharmacokinetic Characteristics, and Preliminary Efficacy Evaluation of GST-HG161	1	China	NSCLC	NCT04228406	6
+MET	Safety, Tolerability, Pharmacokinetic Characteristics, and Preliminary Efficacy Evaluation of GST-HG161	1	China	CRC	NCT04228406	6
+EGFR	A Study of Lazertinib as Monotherapy or in Combination With JNJ-61186372 in Japanese Participants With Advanced Non-small Cell Lung Cancer	1	Japan	NSCLC	NCT04077463	83
+MET	A Study of Lazertinib as Monotherapy or in Combination With JNJ-61186372 in Japanese Participants With Advanced Non-small Cell Lung Cancer	1	Japan	NSCLC	NCT04077463	83
+MET	TR1801-ADC in Patients With Tumors That Express c-Met	1	United States	NSCLC	NCT03859752	20
+MET	TR1801-ADC in Patients With Tumors That Express c-Met	1	United States	CRC	NCT03859752	20
+ALK	Safety and Efficacy of Capmatinib (INC280) Plus Pembrolizumab vs Pembrolizumab Alone in NSCLC With PD-L1≥ 50%	2	MC	NSCLC	NCT04139317	25
+EGFR	Safety and Efficacy of Capmatinib (INC280) Plus Pembrolizumab vs Pembrolizumab Alone in NSCLC With PD-L1≥ 50%	2	MC	NSCLC	NCT04139317	25
+MET	Safety and Efficacy of Capmatinib (INC280) Plus Pembrolizumab vs Pembrolizumab Alone in NSCLC With PD-L1≥ 50%	2	MC	NSCLC	NCT04139317	25
+EGFR	Clinical Trial of the Efficacy and Safety of AC0010 in the Treatment of EGFR T790M Patients With Advanded NSCLC	2	China	NSCLC	NCT03300115	4
+ALK	Targeted Treatment for ALK Positive Patients Who Have Previously Been Treated for Non-squamous Non-small Cell Lung Cancer	2	United States	NSCLC	NCT03737994	18
+BRAF	FIVC in Advanced Colorectal Cancer Patients With BRAF V600E Mutation.	2	China	CRC	NCT03727763	4
+ALK	Brigatinib in Treating Patients With ALK and ROS1 Gene Alterations and Locally Advanced or Metastatic Solid Cancers	2	United States	NSCLC	NCT03868423	18
+ALK	Brigatinib in Treating Patients With ALK and ROS1 Gene Alterations and Locally Advanced or Metastatic Solid Cancers	2	United States	CRC	NCT03868423	18
+ROS1	Brigatinib in Treating Patients With ALK and ROS1 Gene Alterations and Locally Advanced or Metastatic Solid Cancers	2	United States	NSCLC	NCT03868423	18
+ROS1	Brigatinib in Treating Patients With ALK and ROS1 Gene Alterations and Locally Advanced or Metastatic Solid Cancers	2	United States	CRC	NCT03868423	18
+KRAS	RO5126766 for Patients With Advanced KRAS-Mutant Lung Cancer	1	United States	NSCLC	NCT03681483	20
+EGFR	TAK-788 as First-line Treatment Versus Platinum-Based Chemotherapy for Non-Small Cell Lung Cancer (NSCLC) With EGFR Exon 20 Insertion Mutations	3	MC	NSCLC	NCT04129502	23
+KRAS	A Phase 1/2, Study Evaluating the Safety, Tolerability, PK, and Efficacy of AMG 510 in Subjects With Solid Tumors With a Specific KRAS Mutation (CodeBreak 100)	1|2	MC	NSCLC	NCT03600883	26
+KRAS	A Phase 1/2, Study Evaluating the Safety, Tolerability, PK, and Efficacy of AMG 510 in Subjects With Solid Tumors With a Specific KRAS Mutation (CodeBreak 100)	1|2	MC	CRC	NCT03600883	26
+EGFR	Skin Toxicity in Patients With Metastatic Colorectal Cancer Treated With Anti-EGFR and Chemotherapy (DERMIA)	2	Spain	CRC	NCT03448731	109
+EGFR	Niraparib and Panitumumab in Patients With Advanced or Metastatic Colorectal Cancer	2	United States	CRC	NCT03983993	18
+EGFR	Phase 2 Study of Dacomitinib in NSCLC	2	MC	NSCLC	NCT04027647	25
+TP53	The p53 Colorectal Cancer Trial	2	Norway	CRC	NCT03149679	137
+ERBB2	S1613, Trastuzumab and Pertuzumab or Cetuximab and Irinotecan Hydrochloride in Treating Patients With Locally Advanced or Metastatic HER2/Neu Amplified Colorectal Cancer That Cannot Be Removed by Surgery	2	MC	CRC	NCT03365882	25
+BRAF	Study of EGF816 in Combination With Selected Targeted Agents in EGFR-mutant NSCLC	1	MC	NSCLC	NCT03333343	27
+EGFR	Study of EGF816 in Combination With Selected Targeted Agents in EGFR-mutant NSCLC	1	MC	NSCLC	NCT03333343	27
+TP53	Trametinib + HDM201 in CRC Patients With RAS/RAF Mutant and TP53 Wild-type Advanced/Metastatic Colorectal Cancer Mutant and TP53 Wild-type	1	France	CRC	NCT03714958	55
+ERBB2	A Study of E7130 in Participants With Solid Tumors	1	Japan	NSCLC	NCT03444701	83
+ERBB2	A Study of E7130 in Participants With Solid Tumors	1	Japan	CRC	NCT03444701	83
+BRAF	Anlotinib Hydrochloride Capsules Combined With CAPEOX in RAS and BRAF Wild-type mCRC Patients	2	China	CRC	NCT04080843	4
+EGFR	Phase 1 Study of TPX-0022, a MET/CSF1R/SRC Inhibitor, in Patients With Advanced Solid Tumors Harboring Genetic Alterations in MET	1	MC	NSCLC	NCT03993873	27
+EGFR	Phase 1 Study of TPX-0022, a MET/CSF1R/SRC Inhibitor, in Patients With Advanced Solid Tumors Harboring Genetic Alterations in MET	1	MC	CRC	NCT03993873	27
+MET	Phase 1 Study of TPX-0022, a MET/CSF1R/SRC Inhibitor, in Patients With Advanced Solid Tumors Harboring Genetic Alterations in MET	1	MC	NSCLC	NCT03993873	27
+MET	Phase 1 Study of TPX-0022, a MET/CSF1R/SRC Inhibitor, in Patients With Advanced Solid Tumors Harboring Genetic Alterations in MET	1	MC	CRC	NCT03993873	27
+EGFR	Anlotinib Plus Docetaxel for the Treatment of EGFR Wild-type Advanced Non-small-cell Lung Cancer	2	China	NSCLC	NCT03624309	4
+EGFR	A Study of Sintilimab Compared With Docetaxel or Pemetrexed as Second-line Treatment for Patients With Stage IV Nonsquamous Non-small Cell Lung Cancer After Failure With Platinum-Containing Chemotherapy	2	China	NSCLC	NCT03830411	4
+ALK	Evaluating Crizotinib in the Neoadjuvant Setting in Patients With Non-small Cell Lung Cancer	2	United States	NSCLC	NCT03088930	18
+MET	Evaluating Crizotinib in the Neoadjuvant Setting in Patients With Non-small Cell Lung Cancer	2	United States	NSCLC	NCT03088930	18
+ROS1	Evaluating Crizotinib in the Neoadjuvant Setting in Patients With Non-small Cell Lung Cancer	2	United States	NSCLC	NCT03088930	18
+EGFR	Whole Genomic Landscape of Advanced EGFR-mutant NSCLC	N/A	Republic of	NSCLC	NCT03969823	140
+EGFR	Study of Osimertinib and Stereotactic Ablative Radiation (SABR) in EGFR Mutant NSCLC	2	United States	NSCLC	NCT03667820	18
+EGFR	Assessing an Oral EGFR Inhibitor, DZD9008 in Patients Who Have Advanced Non-small Cell Lung Cancer With EGFR or HER2 Mutation (WU-KONG1)	1|2	Australia	NSCLC	NCT03974022	33
+ERBB2	Assessing an Oral EGFR Inhibitor, DZD9008 in Patients Who Have Advanced Non-small Cell Lung Cancer With EGFR or HER2 Mutation (WU-KONG1)	1|2	Australia	NSCLC	NCT03974022	33
+EGFR	DS-8201a in Human Epidermal Growth Factor Receptor 2 (HER2)-Expressing or -Mutated Non-Small Cell Lung Cancer	2	MC	NSCLC	NCT03505710	25
+ERBB2	DS-8201a in Human Epidermal Growth Factor Receptor 2 (HER2)-Expressing or -Mutated Non-Small Cell Lung Cancer	2	MC	NSCLC	NCT03505710	25
+EGFR	Osimertinib in Treating Participants With Stage I-IIIA EGFR-mutant Non-small Cell Lung Cancer Before Surgery	2	United States	NSCLC	NCT03433469	18
+RET	Study of TPX-0046, A RET/SRC Inhibitor in Adult Subjects With Advanced Solid Tumors Harboring RET Fusions or Mutations	1|2	United States	NSCLC	NCT04161391	19
+RET	Study of TPX-0046, A RET/SRC Inhibitor in Adult Subjects With Advanced Solid Tumors Harboring RET Fusions or Mutations	1|2	United States	CRC	NCT04161391	19
+ALK	Long Term Safety Observation of Crizotinib in Chinese NSCLC Population	4	China	NSCLC	NCT03672643	1
+ROS1	Long Term Safety Observation of Crizotinib in Chinese NSCLC Population	4	China	NSCLC	NCT03672643	1
+EGFR	EGFR806 CAR T Cell Immunotherapy for Recurrent/Refractory Solid Tumors in Children and Young Adults	1	United States	NSCLC	NCT03618381	20
+EGFR	EGFR806 CAR T Cell Immunotherapy for Recurrent/Refractory Solid Tumors in Children and Young Adults	1	United States	CRC	NCT03618381	20
+KRAS	Regorafenib and Methotrexate in Treating Participants With Recurrent or Metastatic KRAS Mutated Non-Small Cell Lung Cancer	2	United States	NSCLC	NCT03520842	18
+RET	AcceleRET Lung Study of Pralsetinib for 1L RET Fusion-positive, Metastatic NSCLC	3	United States	NSCLC	NCT04222972	16
+KRAS	Onvansertib in Combination With FOLFIRI and Bevacizumab for Second Line Treatment of Metastatic Colorectal Cancer Patients With a Kras Mutation	1|2	United States	CRC	NCT03829410	19
+EGFR	A Study of YH25448 in Participants With Epidermal Growth Factor Receptor (EGFR) Mutation Positive Advanced Non-Small Cell Lung Cancer (NSCLC)	1|2	MC	NSCLC	NCT04075396	26
+MET	Savolitinib in Treating Participants With MET Amplified Metastatic or Unresectable Colorectal Cancer	2	United States	CRC	NCT03592641	18
+MET	Aflibercept and 5-FU vs. FOLFOX as 1st Line Treatment for Elderly or Frail Elderly Patients With Met. Colorectal Cancer	2	Germany	CRC	NCT03530267	60
+KRAS	A Study of Telaglenastat (CB-839) in Combination With Palbociclib in Patients With Solid Tumors	1|2	United States	NSCLC	NCT03965845	19
+KRAS	A Study of Telaglenastat (CB-839) in Combination With Palbociclib in Patients With Solid Tumors	1|2	United States	CRC	NCT03965845	19
+EGFR	Prophylaxis of Magnesium-rich Mineral Water to Prevent Hypomagnesemia Induced by an Anti-EGFR (OPTIMAG)	N/A	France	CRC	NCT03146338	56
+BRAF	Dose Escalation of RMC-4630 Monotherapy in Relapsed/Refractory Solid Tumors	1	United States	NSCLC	NCT03634982	20
+BRAF	Dose Escalation of RMC-4630 Monotherapy in Relapsed/Refractory Solid Tumors	1	United States	CRC	NCT03634982	20
+EGFR	Dose Escalation of RMC-4630 Monotherapy in Relapsed/Refractory Solid Tumors	1	United States	NSCLC	NCT03634982	20
+EGFR	Dose Escalation of RMC-4630 Monotherapy in Relapsed/Refractory Solid Tumors	1	United States	CRC	NCT03634982	20
+KRAS	Dose Escalation of RMC-4630 Monotherapy in Relapsed/Refractory Solid Tumors	1	United States	NSCLC	NCT03634982	20
+KRAS	Dose Escalation of RMC-4630 Monotherapy in Relapsed/Refractory Solid Tumors	1	United States	CRC	NCT03634982	20
+ALK	APatinib Plus Chemotherapy vErsus Chemotherapy As First-line Treatment for Advanced NSCLC	2	China	NSCLC	NCT03164694	4
+EGFR	APatinib Plus Chemotherapy vErsus Chemotherapy As First-line Treatment for Advanced NSCLC	2	China	NSCLC	NCT03164694	4
+ROS1	APatinib Plus Chemotherapy vErsus Chemotherapy As First-line Treatment for Advanced NSCLC	2	China	NSCLC	NCT03164694	4
+EGFR	Epidermal Growth Factor Receptor (EGFR) Antagonist Chimeric Anti-EGFR Monoclonal Antibody Trial	3	China	CRC	NCT03426371	2
+EGFR	Retreatment With Epidermal Growth Factor Receptor(EGFR) Tyrosine Kinase Inhibitor in EGFR Mutation Positive Patients	2	Republic of	NSCLC	NCT03382795	137
+EGFR	A Study of Poziotinib in Patients With EGFR or HER2 Activating Mutations in Advanced Malignancies	2	United States	CRC	NCT04172597	18
+EGFR	A Study of Poziotinib in Patients With EGFR or HER2 Activating Mutations in Advanced Malignancies	2	United States	NSCLC	NCT04172597	18
+ERBB2	A Study of Poziotinib in Patients With EGFR or HER2 Activating Mutations in Advanced Malignancies	2	United States	CRC	NCT04172597	18
+ERBB2	A Study of Poziotinib in Patients With EGFR or HER2 Activating Mutations in Advanced Malignancies	2	United States	NSCLC	NCT04172597	18
+MET	Osimertinib Plus Savolitinib in EGFRm+/MET+ NSCLC Following Prior Osimertinib	2	MC	NSCLC	NCT03778229	25
+RET	A Study of Oral LOXO-292 in Pediatric Patients With Advanced Solid or Primary Central Nervous System Tumors	1|2	United States	NSCLC	NCT03899792	19
+EGFR	Anti-EGFR Therapy Rechallenge in Combination With Chemotherapy in Patients With Advanced Colorectal Cancer	2	MC	CRC	NCT03311750	25
+ROS1	PF-06463922 for Crizotinib Pretreated ROS1 Positive Non-small-cell Lung Cancer	2	Italy	NSCLC	NCT03439215	74
+EGFR	BPI-7711 Capsule in Patients With EGFR Mutation T790M Positive Non-small Cell Lung Cancer	1|2	China	NSCLC	NCT03386955	5
+KRAS	Phase I Trial of VS-6063 and RO5126766.	1	United Kingdom	NSCLC	NCT03875820	139
+KRAS	Phase I Trial of VS-6063 and RO5126766.	1	United Kingdom	CRC	NCT03875820	139
+PIK3CA	Trametinib and Trifluridine and Tipiracil Hydrochloride in Treating Patients With Colon or Rectal Cancer That is Advanced, Metastatic, or Cannot Be Removed by Surgery	1	United States	CRC	NCT03317119	20
+BRAF	Pharmacokinetic Drug-drug Interaction Study of Encorafenib and Binimetinib on Probe Drugs in Patients With BRAF V600-mutant Melanoma or Other Advanced Solid Tumors	1	MC	NSCLC	NCT03864042	27
+BRAF	Pharmacokinetic Drug-drug Interaction Study of Encorafenib and Binimetinib on Probe Drugs in Patients With BRAF V600-mutant Melanoma or Other Advanced Solid Tumors	1	MC	CRC	NCT03864042	27
+ERBB2	First-in-human Study to Investigate Safety, Blood Levels and Activity of MP0274 in Cancer Patients With HER2-positive Solid Tumors	1	MC	NSCLC	NCT03084926	27
+ERBB2	First-in-human Study to Investigate Safety, Blood Levels and Activity of MP0274 in Cancer Patients With HER2-positive Solid Tumors	1	MC	CRC	NCT03084926	27
+KRAS	Binimetinib and Palbociclib or TAS-102 in Treating Patients With KRAS and NRAS Mutant Metastatic or Unresectable Colorectal Cancer	2	United States	CRC	NCT03981614	18
+NRAS	Binimetinib and Palbociclib or TAS-102 in Treating Patients With KRAS and NRAS Mutant Metastatic or Unresectable Colorectal Cancer	2	United States	CRC	NCT03981614	18
+ROS1	X-396 Capsule in Advanced NSCLC Patients With ROS1 Gene Rearrangement	2	China	NSCLC	NCT03608007	4
+KRAS	A Study of Avelumab, Binimetinib and Talazoparib in Patients With Locally Advanced or Metastatic RAS-mutant Solid Tumors	2	MC	NSCLC	NCT03637491	25
+KRAS	A Study of Avelumab, Binimetinib and Talazoparib in Patients With Locally Advanced or Metastatic RAS-mutant Solid Tumors	2	MC	CRC	NCT03637491	25
+NRAS	A Study of Avelumab, Binimetinib and Talazoparib in Patients With Locally Advanced or Metastatic RAS-mutant Solid Tumors	2	MC	NSCLC	NCT03637491	25
+NRAS	A Study of Avelumab, Binimetinib and Talazoparib in Patients With Locally Advanced or Metastatic RAS-mutant Solid Tumors	2	MC	CRC	NCT03637491	25
+EGFR	Panitumumab With or Without Trametinib in Treating Patients With Stage IV Colorectal Cancer	2	United States	CRC	NCT03087071	18
+KRAS	Panitumumab With or Without Trametinib in Treating Patients With Stage IV Colorectal Cancer	2	United States	CRC	NCT03087071	18
+EGFR	Dose Finding Study of TNO155 in Adult Patients With Advanced Solid Tumors	1	MC	NSCLC	NCT03114319	27
+EGFR	Dose Finding Study of TNO155 in Adult Patients With Advanced Solid Tumors	1	MC	CRC	NCT03114319	27
+KRAS	Dose Finding Study of TNO155 in Adult Patients With Advanced Solid Tumors	1	MC	NSCLC	NCT03114319	27
+KRAS	Dose Finding Study of TNO155 in Adult Patients With Advanced Solid Tumors	1	MC	CRC	NCT03114319	27
+EGFR	Exploring the Theragnostic Value of Osimertinib in EGFR-mutated Lung Cancer (THEROS)	2	Germany	NSCLC	NCT03810066	60
+EGFR	Evaluation of 89Zr-DFO-nimotuzumab for Non-invasive Imaging of EGFR+ Cancers by Positron Emission Tomography (PET)	1|2	Canada	CRC	NCT04235114	47
+ALK	A Phase IB/II Study of Alectinib Combined With Cobimetinib in Advanced ALK-Rearranged (ALK+) NSCLC	1|2	United States	NSCLC	NCT03202940	19
+没有检出突变	/	/	/	/	1
