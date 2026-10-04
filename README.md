@@ -1,4 +1,4 @@
-# SABEL Pipeline
+# GenVars Pipeline
 
 **Version:** 0.9.1.0
 
@@ -6,7 +6,7 @@
 
 ## Function
 
-The SABEL pipeline is used to analyze NGS data (FASTQ format). It was originally
+The GenVars pipeline is used to analyze NGS data (FASTQ format). It was originally
 developed for data generated from the **Ion Proton** platform, and has since been
 modified to support **Illumina** data flow.
 
@@ -28,7 +28,7 @@ The pipeline is composed of the following modules:
 
 ## Software
 
-The bioinformatic software used in the SABEL pipeline and its version information:
+The bioinformatic software used in the GenVars pipeline and its version information:
 
 | Software | Version |
 |----------|---------|
@@ -59,7 +59,7 @@ Tool paths and reference files are configured in `../lib/ToolsCfg.pm`.
 ### Command
 
 ```bash
-perl /path/to/SABEL_0.9.1.0/Main/SABEL_0.9.1.0.pl \
+perl /path/to/GenVars_0.9.1.0/Main/GenVars_0.9.1.0.pl \
     -i fq_list \
     -d fastq_dir \
     -b ontarget_bed \
@@ -104,10 +104,10 @@ IonXpress_004_R_*.fastq	probe1,probe2,probe3,probe4,probe5
 ## Directory layout
 
 ```text
-SABEL_0.9.1.0/
+GenVars_0.9.1.0/
 ├── Main/
 │   ├── README.md        # This document
-│   └── SABEL_0.9.1.0.pl # Pipeline entry point
+│   └── GenVars_0.9.1.0.pl # Pipeline entry point
 ├── lib/                 # Perl / Python / R helper scripts and configurations
 └── bed/                 # BED files, probe lists and reference annotation tables
 ```
